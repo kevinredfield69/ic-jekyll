@@ -21,3 +21,6 @@ deploy:
   script: scripts/deploy.sh
   on:
 branch: gh-pages
+
+secure:
+
