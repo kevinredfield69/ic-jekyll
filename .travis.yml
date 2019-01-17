@@ -22,5 +22,4 @@ deploy:
   on:
 branch: gh-pages
 
-secure:
 
